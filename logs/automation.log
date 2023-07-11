@@ -1,0 +1,7 @@
+2023-07-11 12:38:11.813 [main] INFO  api.tests.UserTests - ********* Creating User *********
+2023-07-11 12:38:12.978 [main] INFO  api.tests.UserTests - ********* Created User Successfully *********
+2023-07-11 12:38:12.982 [main] INFO  api.tests.UserTests - ********* Getting User Details *********
+2023-07-11 12:38:14.141 [main] INFO  api.tests.UserTests - ********* Updating the User Details *********
+2023-07-11 12:38:16.470 [main] INFO  api.tests.UserTests - ********* Successfully Updated the User Details *********
+2023-07-11 12:38:16.475 [main] INFO  api.tests.UserTests - ********* Deleting the User *********
+2023-07-11 12:38:17.635 [main] INFO  api.tests.UserTests - ********* Successfully Deleted the User *********
